@@ -18,6 +18,8 @@ The Library Carpentry logo was designed by Tammy Nguyen.
 The logo uses the [Asap font](http://www.omnibus-type.com/fonts/asap/), designed by Pablo Cosgaya for [Omnibus-Type](http://www.omnibus-type.com) and distributed under the [SIL Open Font License](http://scripts.sil.org/OFL)
 
 ## Colors
+![library red color information: #B32D00](colors/red.png)
+
 ![library gray color information: #808284](colors/gray.png)
 
 ![carpentries blue color information: #071159](colors/blue.png)
